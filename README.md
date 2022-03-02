@@ -11,7 +11,7 @@ I'm a French computer science student, focusing on learning new things.
 
 - 🔭 Currently working on a Flutter app for Twitch IRL Streamers : [IRL Link](https://github.com/LezdCS/irl_link)
 
-- ❤️ I spend my free time on CS:GO with my friends since 2015
+- ❤️ I spend my free time on CS:GO
 
 
 ---
