@@ -7,11 +7,11 @@ I'm a French computer science student, focusing on learning new things.
 
 **About me**
 
-- 💼 Last year of bachelor degree in computer sciences
+- 💼 Bachelor degree in computer sciences
 
 - 🔭 Currently working on a Flutter app for Twitch IRL Streamers : [IRL Link](https://github.com/LezdCS/irl_link)
 
-- ❤️ I spend my free time on CS:GO
+- ❤️ I spend my free time exploring Tokyo
 
 
 ---
