@@ -16,7 +16,3 @@ I'm a French web/mobile developer, currently living my best life in Japan 😖
 
 ---
 
-<div>
-  <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LezdCS&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
-
