@@ -11,6 +11,8 @@ I'm a French web/mobile developer, currently living my best life in Japan 😖
 
 - 🔭 Currently working on a Flutter app for Twitch IRL Streamers : [IRL Link](https://github.com/LezdCS/irl_link)
 
+- 👀 Started building a new SaaS for small developers teams working on mobile apps
+
 - 🤠 Sometimes making REDM Lua scripts for [Nolosha](https://nolosha.fr)
 
 - ❤️ I spend my free time exploring Japan
