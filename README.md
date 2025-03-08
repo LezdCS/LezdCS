@@ -13,7 +13,7 @@ I'm a French web/mobile developer, living my best life in Japan 😖
 
 - 💬 Ask me anything about Flutter or Dart, I'm sure I can help
 
-- 🤠 Use to make REDM Lua scripts for [Nolosha](https://nolosha.fr)
+- 🤠 Used to make REDM Lua scripts for [Nolosha](https://nolosha.fr)
 
 - ❤️ I spend my free time exploring Japan
 
